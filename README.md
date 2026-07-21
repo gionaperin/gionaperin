@@ -12,8 +12,6 @@ I work @ [Tailoor](https://tailoor.com/) where I help build the backend and the 
 * A fleet of custom MCP agents that automate order management, inventory and logistics — so I don't have to.
 * An automatic moderation system for user-uploaded content, so nobody has to look at it manually either.
 
-Before that, I spent a few years building backend services for telecom and banking companies, where I learned that "legacy system" is just a polite way of saying "please, don't touch this!"
-
 ---
 
 🛠️ Tech Stack
