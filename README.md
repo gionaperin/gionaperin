@@ -18,4 +18,4 @@ Before that, I spent a few years building backend services for telecom and banki
 
 🛠️ Tech Stack
 ---
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,html)](https://skillicons.dev)
